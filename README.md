@@ -1,5 +1,12 @@
 # HwxLink
-A top-down design that combines attitude, temperature, and signal detection
+This design aims to realize a miniaturized integrated multifunctional intelligent terminal, so it is proposed that the design is capable of accomplishing the following functions:
+-	High-precision attitude sensing capability
+-	Intelligent device control terminal
+-	Wireless external sensor
+-	Intelligent temperature detection
+-	Portable DDS system
+-	Simple Oscilloscope
+
 # Repository Structure
 ```plaintext
 HwxLink/
